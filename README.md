@@ -2,7 +2,7 @@
 Fun trivia game built into chrome extension popup menu. Questions are retrieved using opentdb.com REST API.
 
 
-https://chrome.google.com/webstore/detail/trivia/ibbhmdfjceaamhmmpnljfnndeailjdbd?hl=en
+Check Out Extension: https://chrome.google.com/webstore/detail/trivia/ibbhmdfjceaamhmmpnljfnndeailjdbd?hl=en
 
 Simply add the extension to chrome and play.
 
